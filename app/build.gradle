@@ -90,6 +90,7 @@ android {
         versionCode appVersionCode
         versionName "${project.version}"
         applicationId packageName
+
     }
 
     applicationVariants.all { variant ->
